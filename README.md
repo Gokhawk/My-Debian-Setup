@@ -9,4 +9,4 @@ NOTE: my debloat code uninstalls GNOME Software, if u want GNOME Software delete
 
 My setup:
 
-![my-setup-rn](https://user-images.githubusercontent.com/47640690/231845490-375c9d4d-3d68-474f-b5e8-bde1f94a97d6.png)
+![screenshot](https://user-images.githubusercontent.com/47640690/235302124-327808a0-0768-43ae-9408-021c9f990402.png)
