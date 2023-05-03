@@ -1,5 +1,5 @@
 # My-Debian-XFCE-Setup
-My Debian Linux Setup with dotfiles 
+My Debian Linux XFCE Setup with dotfiles 
 
 I give my dotfiles for rofi, alacritty etc. u can use these files to customize ur linux :)
 
